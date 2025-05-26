@@ -1,0 +1,10 @@
+# Acortador de URLs con Flask
+
+## Instalación
+1. Instala Python 3.8+.
+2. Ejecuta `pip install -r requirements.txt`.
+3. Corre el servidor con `python app.py`.
+
+## Cómo Usar
+- Abre `http://localhost:5000` en tu navegador.
+- Ingresa una URL larga y obtén una acortada.

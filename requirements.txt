@@ -1,7 +1,8 @@
 # Acortador de URLs con Flask
 
 ## Instalación
-1. Instala Python 3.8+.
+1. flask
+   gunicorn
 2. Ejecuta `pip install -r requirements.txt`.
 3. Corre el servidor con `python app.py`.
 
